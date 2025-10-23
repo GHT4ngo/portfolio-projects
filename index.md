@@ -1,6 +1,6 @@
 ```markdown
 ---
-title: "GHT4ngo — Portfolio Projects"
+title: "Christofer Lindholm — Portfolio Projects"
 ---
 
 {% include_relative README.md %}
