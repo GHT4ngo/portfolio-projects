@@ -5,7 +5,7 @@ Welcome to my project portfolio! This repository contains a selection of project
 ## 🧩 Projects Overview
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| [Project 1](./Project1-Freddys_Bicycles) | A data analytics project I did at Nackademin "Data Enginnering" education | Power BI |
+| [Project 1](./project1-fbi) | A data analytics project I did at Nackademin "Data Enginnering" education | Power BI |
 | [Project 2](./project2-name) | Key functionality or problem solved | React, Node.js |
 
 ## 🧠 About Me
