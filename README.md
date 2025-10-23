@@ -9,7 +9,7 @@ Welcome to my project portfolio! This repository contains a selection of project
 | [Project 2](./project2-name) | Key functionality or problem solved | React, Node.js |
 
 ## 🧠 About Me
-I'm passionate about building efficient and user-friendly solutions. See my [LinkedIn](www.linkedin.com/in/christofer-lindholm-baa0a157) or [CV](https://christofer-lindholm-interactive-cv.lovable.app/) for more details.
+I'm passionate about building efficient and user-friendly solutions. See my [LinkedIn](www.linkedin.com/in/christofer-lindholm-baa0a157) or my interactive [CV](https://christofer-lindholm-interactive-cv.lovable.app/) for more details.
 
 ---
 ⭐ **Tip:** Star this repository or fork it if you find my work interesting!
